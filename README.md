@@ -1,4 +1,4 @@
 # RDz Weight Journal
-A Java-based applet that helps keep track of your weight overtime.
+A Java-based applet that allows a user to manage a list of their weight overtime.
 <br />
 (Tools used: Java)
